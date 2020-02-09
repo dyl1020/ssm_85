@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ssm_service">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm_service</output-path>
+    <root id="root">
+      <element id="archive" name="ssm_service.jar">
+        <element id="module-output" name="ssm_service" />
+      </element>
+    </root>
+  </artifact>
+</component>

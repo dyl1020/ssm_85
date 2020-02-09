@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ssm_pari">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm_pari</output-path>
+    <root id="root">
+      <element id="archive" name="ssm_pari.jar">
+        <element id="module-output" name="ssm_pari" />
+      </element>
+    </root>
+  </artifact>
+</component>

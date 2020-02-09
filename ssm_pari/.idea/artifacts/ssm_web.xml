@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ssm_web">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm_web</output-path>
+    <root id="root">
+      <element id="archive" name="ssm_web.jar">
+        <element id="module-output" name="ssm_web" />
+      </element>
+    </root>
+  </artifact>
+</component>
